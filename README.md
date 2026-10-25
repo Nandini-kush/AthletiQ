@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AthletiQ
 
 **AthletiQ: An AI-Based Real-Time Athlete Performance, Strength, and Biomechanical Analysis System**
@@ -268,3 +269,6 @@ cd frontend
 npx tsc --noEmit
 npm run build
 ```
+=======
+# AthletiQ
+>>>>>>> 940414605a126f3b950b7b5ce48ec05393c20d94
